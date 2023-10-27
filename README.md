@@ -14,4 +14,3 @@
 
 [![Shreesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeshyadav&show_icons=true&theme=dracula)](https://github.com/shreeshyadav)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeshyadav&" alt="shreeshyadav" /></p>
