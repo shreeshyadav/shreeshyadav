@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Shreesh</h1>
-<p>I am currently pursuing my Masters in Computer Science at University of Southern California. I have previously worked at Fidelity Investments as a Software Engineer for 1.5 years. If you have a cool idea on which would like to collaborate with me, shoot me an email at <a href="mailto:shreeshyadav@gmail.com">shreeshyadav@gmail.com</a>. I am actively looking for Summer 2024 Internships and Full Time Roles starting May 2025.</p>
+<p>I am currently pursuing my Masters in Computer Science at University of Southern California. I have previously worked at Fidelity Investments as a Software Engineer for 1.5 years. If you have a cool idea on which would like to collaborate with me, shoot me an email at <a href="mailto:shreeshyadav@gmail.com">shreeshyadav@gmail.com</a></p>
 
 
 
